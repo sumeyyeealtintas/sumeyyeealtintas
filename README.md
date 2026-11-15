@@ -1,6 +1,6 @@
 # Merhaba, ben Sümeyye 👋
 
-**Konya Teknik Üniversitesi Bilgisayar Mühendisliği** son sınıf öğrencisiyim. **Backend ve DevOps** alanında çalışıyorum: servisleri yazmayı, konteynerleştirmeyi ve izlenebilir hale getirmeyi seviyorum. Mobil ve veri bilimi projeleriyle de yelpazemi genişletiyorum.
+** Bilgisayar Mühendisliği** son sınıf öğrencisiyim. **Backend ve DevOps** alanında çalışıyorum: servisleri yazmayı, konteynerleştirmeyi ve izlenebilir hale getirmeyi seviyorum. Mobil ve veri bilimi projeleriyle de yelpazemi genişletiyorum.
 
 ## 🔭 Şu an
 - 🏗️ Takım projemizde (devam ediyor) mikroservis tabanlı bir e-ticaret sistemi üzerinde OpenTelemetry tabanlı bir Mini APM platformu geliştiriyoruz
