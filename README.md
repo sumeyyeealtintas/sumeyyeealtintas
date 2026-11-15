@@ -26,32 +26,32 @@
 ### ⚙️ DevOps, Ağ ve Güvenlik
 | Proje | Açıklama |
 |---|---|
-| [servis-izleyici](https://github.com/KULLANICI_ADI/servis-izleyici) | HTTP/TCP/DNS sağlık kontrolü, Prometheus metrikleri, Docker Compose ile Prometheus + Grafana yığını, uyarı kuralları |
-| [log-analiz-araci](https://github.com/KULLANICI_ADI/log-analiz-araci) | Nginx loglarından zafiyet taraması, kaba kuvvet saldırısı ve 5xx patlaması tespiti |
-| [ag-araclari](https://github.com/KULLANICI_ADI/ag-araclari) | Alt ağ hesaplama, VLSM planlama, rota özetleme, DNS/TCP testi (50 test) |
+| [servis-izleyici](https://github.com/sumeyyeealtintas/servis-izleyici) | HTTP/TCP/DNS sağlık kontrolü, Prometheus metrikleri, Docker Compose ile Prometheus + Grafana yığını, uyarı kuralları |
+| [log-analiz-araci](https://github.com/sumeyyeealtintas/log-analiz-araci) | Nginx loglarından zafiyet taraması, kaba kuvvet saldırısı ve 5xx patlaması tespiti |
+| [ag-araclari](https://github.com/sumeyyeealtintas/ag-araclari) | Alt ağ hesaplama, VLSM planlama, rota özetleme, DNS/TCP testi (50 test) |
 
 ### 🛠️ Backend ve Mobil
 | Proje | Açıklama |
 |---|---|
-| [musteri-sistemi-elasticsearch](https://github.com/KULLANICI_ADI/musteri-sistemi-elasticsearch) | 1M kayıt üzerinde MongoDB + Elasticsearch arama uygulaması |
-| [kutuphane-api-dotnet](https://github.com/KULLANICI_ADI/kutuphane-api-dotnet) | C# / ASP.NET Core Minimal API: ISBN doğrulama, ödünç akışı, doğru HTTP kodları, 31 test |
-| [hava-panosu](https://github.com/KULLANICI_ADI/hava-panosu) | Telefona kurulabilen, çevrimdışı çalışan Türkçe hava durumu uygulaması (PWA, saf JavaScript) |
-| [masraf-onay-ios](https://github.com/KULLANICI_ADI/masraf-onay-ios) | SwiftUI + Firebase masraf onay uygulaması, rol tabanlı giriş, güvenlik kuralları |
-| [gorev-yonetimi-api](https://github.com/KULLANICI_ADI/gorev-yonetimi-api) | FastAPI CRUD, filtreleme, sayfalama, pytest, Docker |
-| [churn-tahmin-api](https://github.com/KULLANICI_ADI/churn-tahmin-api) | Eğitilmiş ML modelini FastAPI + Docker ile servise çevirme |
-| [url-kisaltici-api](https://github.com/KULLANICI_ADI/url-kisaltici-api) | Küçük bir REST API örneği |
+| [musteri-sistemi-elasticsearch](https://github.com/sumeyyeealtintas/musteri-sistemi-elasticsearch) | 1M kayıt üzerinde MongoDB + Elasticsearch arama uygulaması |
+| [kutuphane-api-dotnet](https://github.com/sumeyyeealtintas/kutuphane-api-dotnet) | C# / ASP.NET Core Minimal API: ISBN doğrulama, ödünç akışı, doğru HTTP kodları, 31 test |
+| [hava-panosu](https://github.com/sumeyyeealtintas/hava-panosu) | Telefona kurulabilen, çevrimdışı çalışan Türkçe hava durumu uygulaması (PWA, saf JavaScript) |
+| [masraf-onay-ios](https://github.com/sumeyyeealtintas/masraf-onay-ios) | SwiftUI + Firebase masraf onay uygulaması, rol tabanlı giriş, güvenlik kuralları |
+| [gorev-yonetimi-api](https://github.com/sumeyyeealtintas/gorev-yonetimi-api) | FastAPI CRUD, filtreleme, sayfalama, pytest, Docker |
+| [churn-tahmin-api](https://github.com/sumeyyeealtintas/churn-tahmin-api) | Eğitilmiş ML modelini FastAPI + Docker ile servise çevirme |
+| [url-kisaltici-api](https://github.com/sumeyyeealtintas/url-kisaltici-api) | Küçük bir REST API örneği |
 
 ### 📊 Veri Bilimi ve Makine Öğrenmesi
 | Proje | Açıklama |
 |---|---|
-| [konya-hava-tahmini](https://github.com/KULLANICI_ADI/konya-hava-tahmini) | 11 yıllık gerçek hava verisiyle 1/3/7 gün tahmini; model basit yöntemi %19 geçiyor, 7 günde geçemiyor |
-| [turkce-duygu-analizi](https://github.com/KULLANICI_ADI/turkce-duygu-analizi) | Türkçe NLP: olumlu/olumsuz makro-F1 0.87, veri setinin zayıflığı analiz edildi |
-| [musteri-kaybi-tahmini](https://github.com/KULLANICI_ADI/musteri-kaybi-tahmini) | Churn tahmini: 3 model karşılaştırması, ROC/AUC, özellik önemi |
-| [satis-analizi-dashboard](https://github.com/KULLANICI_ADI/satis-analizi-dashboard) | Streamlit ile etkileşimli satış paneli |
-| [veri-bilimi-mini-projeler](https://github.com/KULLANICI_ADI/veri-bilimi-mini-projeler) | Regresyon, kümeleme, sınıflandırma çalışmaları |
+| [konya-hava-tahmini](https://github.com/sumeyyeealtintas/konya-hava-tahmini) | 11 yıllık gerçek hava verisiyle 1/3/7 gün tahmini; model basit yöntemi %19 geçiyor, 7 günde geçemiyor |
+| [turkce-duygu-analizi](https://github.com/sumeyyeealtintas/turkce-duygu-analizi) | Türkçe NLP: olumlu/olumsuz makro-F1 0.87, veri setinin zayıflığı analiz edildi |
+| [musteri-kaybi-tahmini](https://github.com/sumeyyeealtintas/musteri-kaybi-tahmini) | Churn tahmini: 3 model karşılaştırması, ROC/AUC, özellik önemi |
+| [satis-analizi-dashboard](https://github.com/sumeyyeealtintas/satis-analizi-dashboard) | Streamlit ile etkileşimli satış paneli |
+| [veri-bilimi-mini-projeler](https://github.com/sumeyyeealtintas/veri-bilimi-mini-projeler) | Regresyon, kümeleme, sınıflandırma çalışmaları |
 
 ## 📫 İletişim
 LinkedIn: `BURAYA` · E-posta: `BURAYA`
 
 ---
-*Not: Bu dosyayı GitHub'da `KULLANICI_ADI/KULLANICI_ADI` adlı bir repoya `README.md` olarak koyarsan profil sayfanda görünür.*
+*Not: Bu dosyayı GitHub'da `sumeyyeealtintas/sumeyyeealtintas` adlı bir repoya `README.md` olarak koyarsan profil sayfanda görünür.*
