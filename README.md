@@ -51,8 +51,5 @@
 | [satis-analizi-dashboard](https://github.com/sumeyyeealtintas/satis-analizi-dashboard) | Streamlit ile etkileşimli satış paneli |
 | [veri-bilimi-mini-projeler](https://github.com/sumeyyeealtintas/veri-bilimi-mini-projeler) | Regresyon, kümeleme, sınıflandırma çalışmaları |
 
-## 📫 İletişim
-LinkedIn: `BURAYA` · E-posta: `BURAYA`
 
----
-*Not: Bu dosyayı GitHub'da `sumeyyeealtintas/sumeyyeealtintas` adlı bir repoya `README.md` olarak koyarsan profil sayfanda görünür.*
+
