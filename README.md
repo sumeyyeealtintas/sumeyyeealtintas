@@ -29,6 +29,7 @@
 | [servis-izleyici](https://github.com/sumeyyeealtintas/servis-izleyici) | HTTP/TCP/DNS sağlık kontrolü, Prometheus metrikleri, Docker Compose ile Prometheus + Grafana yığını, uyarı kuralları |
 | [log-analiz-araci](https://github.com/sumeyyeealtintas/log-analiz-araci) | Nginx loglarından zafiyet taraması, kaba kuvvet saldırısı ve 5xx patlaması tespiti |
 | [ag-araclari](https://github.com/sumeyyeealtintas/ag-araclari) | Alt ağ hesaplama, VLSM planlama, rota özetleme, DNS/TCP testi (50 test) |
+| [network-laboratuvari](https://github.com/sumeyyeealtintas/network-laboratuvari) | VLAN, DHCP, ACL, NAT ve VLSM içeren Cisco ağ laboratuvarı; yapılandırmaları plana göre denetleyen Python aracı (37 test) |
 
 ### 🛠️ Backend ve Mobil
 | Proje | Açıklama |
