@@ -36,7 +36,6 @@
 | [musteri-sistemi-elasticsearch](https://github.com/KULLANICI_ADI/musteri-sistemi-elasticsearch) | 1M kayıt üzerinde MongoDB + Elasticsearch arama uygulaması |
 | [kutuphane-api-dotnet](https://github.com/KULLANICI_ADI/kutuphane-api-dotnet) | C# / ASP.NET Core Minimal API: ISBN doğrulama, ödünç akışı, doğru HTTP kodları, 31 test |
 | [hava-panosu](https://github.com/KULLANICI_ADI/hava-panosu) | Telefona kurulabilen, çevrimdışı çalışan Türkçe hava durumu uygulaması (PWA, saf JavaScript) |
-| [portfoy-sitesi](https://github.com/KULLANICI_ADI/portfoy-sitesi) | Saf HTML/CSS ile duyarlı, erişilebilir kişisel portföy sitesi |
 | [masraf-onay-ios](https://github.com/KULLANICI_ADI/masraf-onay-ios) | SwiftUI + Firebase masraf onay uygulaması, rol tabanlı giriş, güvenlik kuralları |
 | [gorev-yonetimi-api](https://github.com/KULLANICI_ADI/gorev-yonetimi-api) | FastAPI CRUD, filtreleme, sayfalama, pytest, Docker |
 | [churn-tahmin-api](https://github.com/KULLANICI_ADI/churn-tahmin-api) | Eğitilmiş ML modelini FastAPI + Docker ile servise çevirme |
