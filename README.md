@@ -25,6 +25,8 @@
 |---|---|
 | [masraf-onay-ios](https://github.com/KULLANICI_ADI/masraf-onay-ios) | SwiftUI + Firebase masraf onay uygulaması: rol tabanlı giriş, grafikler, güvenlik kuralları |
 | [musteri-sistemi-elasticsearch](https://github.com/KULLANICI_ADI/musteri-sistemi-elasticsearch) | 1M kayıt üzerinde MongoDB + Elasticsearch arama uygulaması, testli |
+| [konya-hava-tahmini](https://github.com/KULLANICI_ADI/konya-hava-tahmini) | 11 yıllık gerçek hava verisiyle 1/3/7 gün sıcaklık tahmini; model baseline'ı %19 geçiyor, 7 günde geçemiyor |
+| [turkce-duygu-analizi](https://github.com/KULLANICI_ADI/turkce-duygu-analizi) | Türkçe NLP: 49 bin cümlede olumlu/olumsuz makro-F1 0.87, veri setinin zayıflığı analiz edildi |
 | [musteri-kaybi-tahmini](https://github.com/KULLANICI_ADI/musteri-kaybi-tahmini) | Churn tahmini: 3 model karşılaştırması, ROC/AUC, özellik önemi |
 | [churn-tahmin-api](https://github.com/KULLANICI_ADI/churn-tahmin-api) | Eğitilen modeli FastAPI + Docker ile servise çevirme |
 | [gorev-yonetimi-api](https://github.com/KULLANICI_ADI/gorev-yonetimi-api) | CRUD, filtreleme, sayfalama, pytest, Docker |
