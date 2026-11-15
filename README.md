@@ -38,7 +38,6 @@
 | [kutuphane-api-dotnet](https://github.com/sumeyyeealtintas/kutuphane-api-dotnet) | C# / ASP.NET Core Minimal API: ISBN doğrulama, ödünç akışı, doğru HTTP kodları, 31 test |
 | [okuma-defteri](https://github.com/sumeyyeealtintas/okuma-defteri) | Kitap okuma takibi ve kişiye özel öneriler (PWA): TF-IDF ile içerik tabanlı öneri, 1000'e yakın kitap, 61 test |
 | [hava-panosu](https://github.com/sumeyyeealtintas/hava-panosu) | Telefona kurulabilen, çevrimdışı çalışan Türkçe hava durumu uygulaması (PWA, saf JavaScript) |
-| [masraf-onay-ios](https://github.com/sumeyyeealtintas/masraf-onay-ios) | SwiftUI + Firebase masraf onay uygulaması, rol tabanlı giriş, güvenlik kuralları |
 | [gorev-yonetimi-api](https://github.com/sumeyyeealtintas/gorev-yonetimi-api) | FastAPI CRUD, filtreleme, sayfalama, pytest, Docker |
 | [churn-tahmin-api](https://github.com/sumeyyeealtintas/churn-tahmin-api) | Eğitilmiş ML modelini FastAPI + Docker ile servise çevirme |
 | [url-kisaltici-api](https://github.com/sumeyyeealtintas/url-kisaltici-api) | Küçük bir REST API örneği |
