@@ -3,7 +3,7 @@
 **Konya Teknik Üniversitesi Bilgisayar Mühendisliği** son sınıf öğrencisiyim. **Backend ve DevOps** alanında çalışıyorum: servisleri yazmayı, konteynerleştirmeyi ve izlenebilir hale getirmeyi seviyorum. Mobil ve veri bilimi projeleriyle de yelpazemi genişletiyorum.
 
 ## 🔭 Şu an
-- 🏗️ Bitirme projemizde (takım, devam ediyor) mikroservis tabanlı bir e-ticaret sistemi üzerinde OpenTelemetry tabanlı bir Mini APM (log, metrik, trace, alarm) platformu geliştiriyoruz
+- 🏗️ Takım projemizde (devam ediyor) mikroservis tabanlı bir e-ticaret sistemi üzerinde OpenTelemetry tabanlı bir Mini APM platformu geliştiriyoruz
 - ⚙️ GitHub Actions ile CI/CD süreçleri üzerinde çalışıyorum
 - 📱 Flutter ve SwiftUI ile mobil uygulamalar geliştiriyorum
 
