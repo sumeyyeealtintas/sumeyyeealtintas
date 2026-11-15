@@ -3,7 +3,7 @@
 **Konya Teknik Üniversitesi Bilgisayar Mühendisliği** son sınıf öğrencisiyim. **Backend ve DevOps** alanında çalışıyorum: servisleri yazmayı, konteynerleştirmeyi ve izlenebilir hale getirmeyi seviyorum. Mobil ve veri bilimi projeleriyle de yelpazemi genişletiyorum.
 
 ## 🔭 Şu an
-- 🏗️ Bitirme projemde FastAPI mikroservisleri, Docker Compose, OpenTelemetry, Prometheus ve Grafana ile izleme altyapısı kuruyorum
+- 🏗️ Bitirme projemde (takım) FastAPI mikroservislerini Docker Compose ile çalıştırıyor, OpenTelemetry, Prometheus ve Grafana ile izlenebilir hale getiriyoruz
 - ⚙️ GitHub Actions ile CI/CD süreçleri üzerinde çalışıyorum
 - 📱 Flutter ve SwiftUI ile mobil uygulamalar geliştiriyorum
 
